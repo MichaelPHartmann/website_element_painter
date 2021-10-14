@@ -1,4 +1,4 @@
-#I was tired of manually changing all my headers, footers, and head code.
+# I was tired of manually changing all my headers, footers, and head code.
 
 There are options - yes. You have PHP, but that is server side and with my website being hosted on GitHub for now, that's not an option. Javascript and html_include is probably the best option out there for this, and it is probably better than this solution. That said, Javascript adds weight and reliability issues that I'm not sure I want to deal with.
 
