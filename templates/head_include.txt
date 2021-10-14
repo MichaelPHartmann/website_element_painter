@@ -1,0 +1,5 @@
+<!--HEAD BEGINS HERE-->
+<head>
+Stuff goes here!
+</head>
+<!--HEAD ENDS HERE-->

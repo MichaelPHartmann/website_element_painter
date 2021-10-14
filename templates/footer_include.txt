@@ -1,0 +1,5 @@
+<!--FOOTER BEGINS HERE-->
+<footer>
+Stuff goes here!
+</footer>
+<!--FOOTER BEGINS HERE-->
