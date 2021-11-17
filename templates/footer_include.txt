@@ -2,4 +2,4 @@
 <footer>
 Stuff goes here!
 </footer>
-<!--FOOTER BEGINS HERE-->
+<!--FOOTER ENDS HERE-->
