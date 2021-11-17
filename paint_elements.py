@@ -7,10 +7,12 @@ class paintElements():
         self.head_include = 'templates/head_include.txt'
 
     def include_pages(self):
+        output = []
         with open(self._include) as f:
             include = f.readlines()
-            include = map(str.strip, include)
-        self.include_pages = include
+            for file in include:
+                output.append(file.strip('\n'))
+        self.include_pages = output
 
     def erase_file(self, file):
         file.seek(0)
